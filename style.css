@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    ;
+}
+
+#welcomepotato {
+    background: linear-gradient(#eb7434 0%, #eb3434 25%, #fce303 50%, #bafc03 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    opacity: 0.800000000;
+    padding-top: 80px;
+    z-index: 9;
+}
+
+;
+
+p {
+    font-size: 50px;
+    font-family: serif;
+    font-weight: 100;
+    line-height: 1.2;
+    max-width: 500px;
+    margin: 25px auto;
+
+}
+
+h1 {
+    font-size: 80px;
+    font-family: fantasy
+}
+
+h2 {
+    font-size: 50px;
+    font-family: fantasy
+}
+
+h3 {
+    font-size: 20px;
+    font-family: fantasy
+}
+
+.potato {
+    display: table-cell;
+}
+
+.LISTOFPOTATODOOM {
+    list-style: none;
+    font-family: sans-serif;
+    color: black;
+    font-size: 30px;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor:pointer;
+    right:200px;
+}
+
+.potatolink {
+    float: left;
+    padding:10px;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+.potatolink:hover {background-color:chartreuse }
